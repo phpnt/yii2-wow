@@ -15,7 +15,7 @@ phpNT - Yii2 WOW
  - [Группа facebook](https://www.facebook.com/Phpnt-595851240515413/)
 
 ------------
-
+'
 Установка:
 
 ------------
@@ -43,7 +43,7 @@ use phpnt\wow\WowAsset;
 WowAsset::register($this);
 ?>
 ```
-html
+'''html
 <div class="container">
     <div class="col-md-12 text-center">
         <div class="row">
